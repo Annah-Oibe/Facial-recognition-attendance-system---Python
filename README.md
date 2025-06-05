@@ -45,7 +45,7 @@ FacialRecognitionAttendance/
 -  requirements.txt # Required Python packages
 -  README.md # Project documentation
 
-###✍️ Authors section
+##✍️ Authors section
 - **Annah Oibe** - annahoibe@gmail.com
 - **Jesse Dangana** - http://github.com/mubarraqqq
 - **Olawoye Oluwanifemi** - http://github.com/Nife06
