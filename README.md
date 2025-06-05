@@ -49,7 +49,7 @@ FacialRecognitionAttendance/
 ###✍️ Authors section
 - **Annah Oibe** - annahoibe@gmail.com
 - **Jesse Dangana** - http://github.com/mubarraqqq
-- **Olawoye Oluwanifemi - http://github.com/Nife06
+- **Olawoye Oluwanifemi** - http://github.com/Nife06
 
 ##Installation
 
