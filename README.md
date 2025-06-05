@@ -31,20 +31,19 @@ An intelligent attendance management system using facial recognition powered by 
 
 ## 📁 Project Structure
 FacialRecognitionAttendance/
-│
-├── dataset/ # Stored user face images
-├── trainer/ # Trained face recognition model
-├── attendance/ # CSV logs of attendance
-├── static/ # (Flask) CSS, JS, images
-├── templates/ # (Flask) HTML templates
-│
-├── app.py # Flask main app
-├── capture_faces.py # User registration
-├── train_model.py # Model training script
-├── recognize.py # Real-time recognition
-├── utils.py # Utility functions
-├── requirements.txt # Required Python packages
-└── README.md # Project documentation
+- dataset/ # Stored user face images
+- trainer/ # Trained face recognition model
+- attendance/ # CSV logs of attendance
+- static/ # (Flask) CSS, JS, images
+- templates/ # (Flask) HTML templates
+- 
+-  app.py # Flask main app
+-  capture_faces.py # User registration
+- train_model.py # Model training script
+-  recognize.py # Real-time recognition
+-  utils.py # Utility functions
+-  requirements.txt # Required Python packages
+-  README.md # Project documentation
 
 ###✍️ Authors section
 - **Annah Oibe** - annahoibe@gmail.com
